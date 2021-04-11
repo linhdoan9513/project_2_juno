@@ -704,6 +704,10 @@ footer a {
         bottom: 0;
         right: 0;
     }
+
+    .practice-image img {
+        max-height: 250px;
+    }
  }
 
 
